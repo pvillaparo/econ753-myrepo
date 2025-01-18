@@ -6,15 +6,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/pvillaparo/econ753-myrepo?tab=readme-ov-file">
     <img src="images/quipu.PNG" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">README documentation</h3>
+  <h3 align="center">README</h3>
 
   <p align="center">
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Files »</strong></a>
+    <a href="https://github.com/pvillaparo/econ753-myrepo?tab=readme-ov-file"><strong>Files »</strong></a>
     <br />
   </p>
 </div>
