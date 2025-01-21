@@ -1,5 +1,5 @@
 #=      
-Broyden Method - Paola Villa
+Broyden Method - Paola G Villa Paro
 Write an algorithm in your language of choice to solve my Broyden example (not using a canned solver from a package in your language). 
 note: I am going to use only matrices and vectors.
 =#
