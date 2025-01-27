@@ -49,7 +49,8 @@ Also other methods DFP, BFGS .  Different ways to update the hessian, the steps 
 """
 COmparison
 neldermead takes more iterations, don't use any derivative info, has to evaluate the function more times, but BFGS is doing more things in the computer
-gradientdescent takes soooo many iterations and actually prob requires way more iterations to converge (for banana function)
+gradientdescent takes soooo many iterations and actually prob requires way more iterations to converge (for banana function). Gradientdescent don't compute hessians
+
     
 
 """
