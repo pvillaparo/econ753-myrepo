@@ -70,4 +70,4 @@ So as the gravity example, we can get this delta using a contraction mapping .
 once we get the new delta, we know can infer the associated $ ξ_{jt}$ and minimize the momemnt vector of this parameter to update the guessed $ ν $ 
 
 
-
+Note: BHHH is the MLE special case 
