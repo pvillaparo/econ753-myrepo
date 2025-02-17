@@ -1,0 +1,18 @@
+# Class 10
+**Date:** 2025-02-17  
+**Source:** [Lecture]  
+
+---
+# DYNAMICS
+## RUST 1987
+Estimation model evaluates convergence on EValue. 
+Note that choices here discrete, 
+
+## Hotz and Miller
+
+- replace EV with choice probabilities, so we don't do contracting mapping for every guess of the parameters
+- find EV using this logit algrebra that can express EV as a funciton of the data.
+- In this case is only a difference not with weights.
+- but CCP is not asymptotically efficient
+
+... moving to handwrited notes now ...
